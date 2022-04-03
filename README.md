@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F7BB37&center=true&vCenter=true&lines=Hi!+I'm+Le+Nguyen)](https://git.io/typing-svg)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dauduathomngon1&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dauduathomngon&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000)](https://git.io/streak-stats)  
   
 </div>
 
